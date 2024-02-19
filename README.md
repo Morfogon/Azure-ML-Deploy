@@ -19,7 +19,7 @@ Na aba de visão geral, analisar qual foi o melhor algoritmo em questão de dese
 os pontos de extremidade e por fim inserir o seguinte imput:
 
 ```json
-{
+
     "Inputs": {
         "data": [{
             "day": 1,
@@ -37,7 +37,7 @@ os pontos de extremidade e por fim inserir o seguinte imput:
         }]
     },
     "GlobalParameters": 1.0
-}
+
 ```
 
 
@@ -45,11 +45,11 @@ os pontos de extremidade e por fim inserir o seguinte imput:
  
  
 ```json
-{
+
     "Results": [
         374.85293514112186
     ]
-}
+
 ```
  
    
