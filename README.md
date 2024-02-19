@@ -19,7 +19,6 @@
     os pontos de extremidade e por fim inserir o seguinte imput:
 
 
-    ```
 {
    "Inputs": { 
      "data": [
@@ -41,7 +40,6 @@
    },   
    "GlobalParameters": 1.0
  }
- ```
 
 
  para dessa forma obter como resultado o valor de 374.85293514112186
