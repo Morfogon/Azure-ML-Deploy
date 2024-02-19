@@ -41,8 +41,16 @@ os pontos de extremidade e por fim inserir o seguinte imput:
 ```
 
 
- para dessa forma obter como resultado o valor de 374.85293514112186
-
+ para dessa forma obter como resultado o valor de 
+ 
+ 
+```json
+{
+    "Results": [
+        374.85293514112186
+    ]
+}
+```
  
    
 
